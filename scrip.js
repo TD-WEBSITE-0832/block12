@@ -32,3 +32,24 @@ function calculateBMI() {
 
   categoryDiv.innerHTML = `Vazn holati: <strong style="color:${color}">${category}</strong>`;
 }
+
+
+
+let bt=document.getElementById("bt")
+
+Object.assign(bt.style,{
+  width:"140px",
+  height:"40px",
+  display:"flex",
+  aliganItems:"center",
+  marginLeft:"10%",
+})
+
+
+
+
+let cl=document.querySelector(".calculator")
+
+Object.assign(cl.style,{
+  // width:"490px",
+})

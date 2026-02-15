@@ -14,8 +14,8 @@ body {
       border-radius: 16px;
       box-shadow: 0 10px 30px rgba(0,0,0,0.12);
       padding: 32px 28px;
-      width: 100%;
-      max-width: 420px;
+      width: 500px;
+      max-width: 600px;
       text-align: center;
     }
 
@@ -40,7 +40,7 @@ body {
     }
 
     input[type="number"] {
-      width: 100%;
+      width: 90%;
       padding: 14px 16px;
       border: 2px solid #b2dfdb;
       border-radius: 10px;

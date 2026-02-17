@@ -47,6 +47,18 @@ Object.assign(bt.style,{
 
 
 
+let bt1=document.getElementById("bt1")
+
+Object.assign(bt1.style,{
+  width:"160px",
+  height:"40px",
+  display:"flex",
+  aliganItems:"center",
+  marginLeft:"10%",
+})
+
+
+
 
 let cl=document.querySelector(".calculator")
 
